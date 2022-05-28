@@ -1,0 +1,16 @@
+C:\Users\danil\RiderProjects\TPitog\TPitog\bin\Debug\net6.0\TPitog.exe
+C:\Users\danil\RiderProjects\TPitog\TPitog\bin\Debug\net6.0\TPitog.deps.json
+C:\Users\danil\RiderProjects\TPitog\TPitog\bin\Debug\net6.0\TPitog.runtimeconfig.json
+C:\Users\danil\RiderProjects\TPitog\TPitog\bin\Debug\net6.0\TPitog.dll
+C:\Users\danil\RiderProjects\TPitog\TPitog\bin\Debug\net6.0\ref\TPitog.dll
+C:\Users\danil\RiderProjects\TPitog\TPitog\bin\Debug\net6.0\TPitog.pdb
+C:\Users\danil\RiderProjects\TPitog\TPitog\obj\Debug\net6.0\TPitog.GlobalUsings.g.cs
+C:\Users\danil\RiderProjects\TPitog\TPitog\obj\Debug\net6.0\TPitog.csproj.AssemblyReference.cache
+C:\Users\danil\RiderProjects\TPitog\TPitog\obj\Debug\net6.0\TPitog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\RiderProjects\TPitog\TPitog\obj\Debug\net6.0\TPitog.AssemblyInfoInputs.cache
+C:\Users\danil\RiderProjects\TPitog\TPitog\obj\Debug\net6.0\TPitog.AssemblyInfo.cs
+C:\Users\danil\RiderProjects\TPitog\TPitog\obj\Debug\net6.0\TPitog.csproj.CoreCompileInputs.cache
+C:\Users\danil\RiderProjects\TPitog\TPitog\obj\Debug\net6.0\TPitog.dll
+C:\Users\danil\RiderProjects\TPitog\TPitog\obj\Debug\net6.0\ref\TPitog.dll
+C:\Users\danil\RiderProjects\TPitog\TPitog\obj\Debug\net6.0\TPitog.pdb
+C:\Users\danil\RiderProjects\TPitog\TPitog\obj\Debug\net6.0\TPitog.genruntimeconfig.cache
